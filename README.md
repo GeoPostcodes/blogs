@@ -12,6 +12,10 @@ Follow the GeoPostcodes knowledge base now and learn how to build address valida
 
 [View our blog](https://www.geopostcodes.com/blog/)
 
+## Blog articles
+
+[Import location data to Salesforce: A step-by-Step guide](step-by-step-guide-to-salesforce)
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
