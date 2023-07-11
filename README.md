@@ -16,4 +16,4 @@ Follow the GeoPostcodes knowledge base now and learn how to build address valida
 
 This project is licensed under the [MIT License](LICENSE).
 
-If you use our files, make sure you include the original copyright and license copy of GeoPostcodes’ software.
+If you use our files, make sure you include the original copyright and license notice in any copy of the software/source.
