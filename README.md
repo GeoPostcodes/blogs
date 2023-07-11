@@ -16,6 +16,14 @@ Follow the GeoPostcodes knowledge base now and learn how to build address valida
 
 [Import location data to Salesforce: A step-by-Step guide](step-by-step-guide-to-salesforce)
 
+[How to build a zip code to time zone database in 5 steps](https://www.geopostcodes.com/blog/zip-code-time-zone-database/)
+
+[Geocoding: building a zip code to coordinates converter](https://www.geopostcodes.com/blog/zip-code-to-coordinates-converter/)
+
+[The quickest way to build an address autocomplete API](https://www.geopostcodes.com/blog/the-quickest-way-to-build-an-address-autocomplete-api/)
+
+[How to build a postal code polygon database](https://www.geopostcodes.com/blog/postal-code-polygon-database/)
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
